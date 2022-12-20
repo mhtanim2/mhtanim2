@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mhtanim2@gmail.com**
 
-- ⚡ Fun fact **I can cope up with team easily.**
+- ⚡ **I can cope up with team easily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
