@@ -6,18 +6,21 @@
 
 <p align="left"> <a href="https://twitter.com/mehrabtanim" target="blank"><img src="https://img.shields.io/twitter/follow/mehrabtanim?logo=twitter&style=for-the-badge" alt="mehrabtanim" /></a> </p>
 
-- 🔭 I’m currently studying at **Greeen University of Bangladesh**
+- 🔭 I’m currently graduated from **Greeen University of Bangladesh**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working on **MERN Stack**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me anything about **JS, Java, Mongodb, Express, React**
 
 - 📫 How to reach me **mhtanim2@gmail.com**
 
-- ⚡ **I can cope up with team easily.**
-
+- ⚡ **My portfolio**
+<a href="https://mehrab-hasan-portfolio.netlify.app" target="blank">Mehrab Hasan Tanim</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://mehrab-hasan-portfolio.netlify.app" target="blank">
+<img align="center" src="https://www.svgrepo.com/show/220462/profile-portfolio.svg" alt="mehrabtanim" height="30" width="40" />
+</a>                                                                                                                                    
 <a href="https://twitter.com/mehrabtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehrabtanim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehrab-hasan-tanim-b123301a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehrab-hasan-tanim-b123301a6" height="30" width="40" /></a>
 <a href="https://fb.com/mhtanim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhtanim2" height="30" width="40" /></a>
