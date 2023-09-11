@@ -1,38 +1,143 @@
-<h1 align="center">Hi 👋, I'm Mehrab Hasan Tanim</h1>
-<h3 align="center">A passionate web application developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+<h1 align="center">Hey there 👋, I'm Mehrab Hasan Tanim</h1>
+<h4 align="center">A passionate computer science engineer who loves to learn new technologies. Seeking a challenging position where I can leverage my strong proficiency in Express.JS, ASP.NET, React.JS, Next.JS skills leading to better growth of self and
+economical advancement.</h4>
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding..." width="400" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtanim2&label=Profile%20views&color=0e75b6&style=flat" alt="mhtanim2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mehrabtanim" target="blank"><img src="https://img.shields.io/twitter/follow/mehrabtanim?logo=twitter&style=for-the-badge" alt="mehrabtanim" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
 
-- 🔭 I’m currently graduated from **Greeen University of Bangladesh**
+- 💼 I’m currently working on a web (back end) project.
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🧠 I’m currently learning **.NET core and Next.js**
 
-- 💬 Ask me anything about **JS, Java, Mongodb, Express, React**
+- 💬 Ask Me About Node.JS, React.JS, JS, Java, C#, .NET Core, Next.JS, Software Development, Git/Github
+I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
 
-- 📫 How to reach me **mhtanim2@gmail.com**
 
-- ⚡ **My portfolio**
-<a href="https://mehrab-hasan-portfolio.netlify.app" target="blank">Mehrab Hasan Tanim</a>
-<h3 align="left">Connect with me:</h3>
+- 📧 Email me at **mhtanim2@gmail.com**
+
+- 📑 Know more about my skills & experiences in my
+**[resume](https://drive.google.com/file/d/1v2coPwlXpsqzSa81P77yo4qlcfX-zJaS/view?usp=sharing)**.
+
+<hr>
+
+### 🚀 My Journey So Far
+
+I began my journey in the world of technology by learning MERN stack. However, I've since transitioned to working with .Net Core, where I'm currently honing my skills. As an experience real life web application developer, I'm gaining hands-on experience and actively contributing to dynamic projects.
+
+### 🌱 What Drives Me
+
+I'm motivated by the potential of technology to transform lives and businesses. I believe in continuous learning and innovation, and I'm excited to be a part of a dynamic industry that's constantly evolving.
+
+<h3 align="left">Get me on</h3>
 <p align="left">
-<a href="https://mehrab-hasan-portfolio.netlify.app" target="blank">
-<img align="center" src="https://www.svgrepo.com/show/220462/profile-portfolio.svg" alt="mehrabtanim" height="30" width="40" />
-</a>                                                                                                                                    
-<a href="https://twitter.com/mehrabtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehrabtanim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehrab-hasan-tanim-b123301a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehrab-hasan-tanim-b123301a6" height="30" width="40" /></a>
-<a href="https://fb.com/mhtanim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhtanim2" height="30" width="40" /></a>
-<a href="https://instagram.com/mehrab_hasan_tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrab_hasan_tanim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mhtanim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhtanim2" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/mehrab-hasan-tanim-b123301a6" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="tanim" height="30" width="40" /></a>
+    &nbsp;
+    <a href="https://www.facebook.com/mhtanim2" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="mhtanim" height="30" width="40" /></a>
+  <a href="https://mehrab-hasan-portfolio.netlify.app" target="blank"><img align="center"
+            src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-svg-vector.svg"
+            alt="mhtanim" height="30" width="40" /></a>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtanim2&show_icons=true&locale=en&layout=compact" alt="mhtanim2" /></p>
+### 🎓 Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtanim2&show_icons=true&locale=en" alt="mhtanim2" /></p>
+**B.Sc. (Hons) in Computer Science & Engineering**  
+Green University of Bangladesh 
+- July 2022 – Aug 2023  
+- Degree: B.Sc. in Computer Science and Engineering
+  
+### 👨‍💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtanim2&" alt="mhtanim2" /></p>
+**Software Engineer Trainee**  
+Full Stack Web Development with MERN(Ostad) 
+- Dec 2022 – July 2023  
+- Worked on an Business Application Project
+- Utilized technologies: Express, MongoDB, React
+
+**Back-End Developer**  
+Working on different Project which all are addressed my resume
+- July 2023 - Present
+- Working on back end projects
+- Technologies working with: JS, C#, Express, .Net Core, React.js, Next.js
+
+### 📁 Projects
+
+**🛒 INVENTORY MANAGEMENT SYSTEM (Business Application managed by ACID principle)**
+
+- Allow to manage inventory levels, orders, sales, customer, and return, generating reports and related.
+- Learn and overcome - transaction rollback, data association, one to many join, pagination, searching, filtering etc.
+- Key tech stack: Express, React, NodeMailer, JWT, MongoDB, React Router Dom, Bootstrap
+- [Source Code](https://github.com/mhtanim2/Inventory-Management-System)
+- [Live](https://inventory-client-ten.vercel.app)
+**🛒 FOOD DELIVERY APPLICATION (Online Food Delivery Services)**
+- Seamless experience for users to browse menus, place orders, make payments and track their deliveries.
+- Learn and overcome - User Location(geocoding API), category-wise item selection, Order Placement and Checkout, PayPal payment gateway, git and GitHub conflict relevance etc.
+- Key tech stack: Express, React, MongoDB, React Router Dom, Bootstrap, NodeMailer, JWT
+- [Live](https://food-delivery-client-kohl.vercel.app/)
+
+**🔍 TASK MANAGER (Dynamic User Management Application)**
+
+- Help to manage daily tasks, stay organized, and enhance their productivity.
+- Learn and overcome - Authentication-Authorization, Recovery, Status Tracking, Search, Lists and Categories, and Filtering.
+- Key tech stack: Express, React, MongoDB, React Router Dom, Bootstrap, JWT
+- [Source Code](https://github.com/mhtanim2/Task-Manager)
+
+**💪 Fitness Tracker (Full Stack Daily Activity and Health Tracker Web App)**
+
+Full stack fitness tracker web application built with .NET Core Web API and React JS. Users can track meals, water intake, and exercises, and view progress reports, statistics, and predictions.
+
+- Key tech stack: .NET Core, MS SQL, JWT authentication, React JS, Bootstrap, Dashboard
+- [Source Code](https://github.com/feehaam/Fitness_Tracker) (Under Development)
+
+<hr>
+
+<h3 align="center">Technologies I've been working on</h3>
+<p align="center">(Sorted by skill level from left to right)</p>
+<p align="left">
+<h5 align="left">Languages</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+</p><h5 align="left">Front end</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+</p><h5 align="left">Back end & Other frameworks</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+</p><h5 align="left">Database & BaaS</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+</p><h5 align="left">Testing</h5><p>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+</p><h5 align="left">Other tools</h5><p>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+</p>
+</p>
+
+<hr>
+
+<h3 align="center">Statistics</h3>
+<p align="center">&nbsp;
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a>
+    <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feehaam&show_icons=true&locale=en&layout=compact" alt="feehaam" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=feehaam&show_icons=true&locale=en" alt="feehaam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feehaam&" alt="feehaam" />
+</p>
+
