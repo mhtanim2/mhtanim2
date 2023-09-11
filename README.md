@@ -90,35 +90,29 @@ Working on different Project which all are addressed my resume
 - Key tech stack: Express, React, MongoDB, React Router Dom, Bootstrap, JWT
 - [Source Code](https://github.com/mhtanim2/Task-Manager)
 
-**💪 Fitness Tracker (Full Stack Daily Activity and Health Tracker Web App)**
-
-Full stack fitness tracker web application built with .NET Core Web API and React JS. Users can track meals, water intake, and exercises, and view progress reports, statistics, and predictions.
-
-- Key tech stack: .NET Core, MS SQL, JWT authentication, React JS, Bootstrap, Dashboard
-- [Source Code](https://github.com/feehaam/Fitness_Tracker) (Under Development)
-
 <hr>
 
 <h3 align="center">Technologies I've been working on</h3>
 <p align="center">(Sorted by skill level from left to right)</p>
 <p align="left">
 <h5 align="left">Languages</h5><p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Front end</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Back end & Other frameworks</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Database & BaaS</h5><p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Testing</h5><p>
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Other tools</h5><p>
