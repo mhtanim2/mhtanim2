@@ -76,12 +76,14 @@ Working on different Project which all are addressed my resume
 - Learn and overcome - transaction rollback, data association, one to many join, pagination, searching, filtering etc.
 - Key tech stack: Express, React, NodeMailer, JWT, MongoDB, React Router Dom, Bootstrap
 - [Source Code](https://github.com/mhtanim2/Inventory-Management-System)
-- [Live](https://inventory-client-ten.vercel.app)
+- [Live Link](https://inventory-client-ten.vercel.app)
+
 **🛒 FOOD DELIVERY APPLICATION (Online Food Delivery Services)**
+
 - Seamless experience for users to browse menus, place orders, make payments and track their deliveries.
 - Learn and overcome - User Location(geocoding API), category-wise item selection, Order Placement and Checkout, PayPal payment gateway, git and GitHub conflict relevance etc.
 - Key tech stack: Express, React, MongoDB, React Router Dom, Bootstrap, NodeMailer, JWT
-- [Live](https://food-delivery-client-kohl.vercel.app/)
+- [Live Link](https://food-delivery-client-kohl.vercel.app/)
 
 **🔍 TASK MANAGER (Dynamic User Management Application)**
 
