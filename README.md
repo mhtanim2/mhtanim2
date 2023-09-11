@@ -5,7 +5,7 @@ economical advancement.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtanim2&label=Profile%20views&color=0e75b6&style=flat" alt="mhtanim2" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a> </p> -->
+            src="https://github-profile-trophy.vercel.app/?username=mhtanim2" alt="mhtanim2" /></a> </p> -->
 
 - 💼 I’m currently working on a web (back end) project.
 
@@ -104,6 +104,7 @@ Working on different Project which all are addressed my resume
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Back end & Other frameworks</h5><p>
@@ -116,11 +117,9 @@ Working on different Project which all are addressed my resume
 </p><h5 align="left">Testing</h5><p>
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Other tools</h5><p>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+    
 </p>
 </p>
 
@@ -128,10 +127,9 @@ Working on different Project which all are addressed my resume
 
 <h3 align="center">Statistics</h3>
 <p align="center">&nbsp;
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feehaam" alt="feehaam" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtanim2" alt="mhtanim2" /></a>
     <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feehaam&show_icons=true&locale=en&layout=compact" alt="feehaam" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=feehaam&show_icons=true&locale=en" alt="feehaam" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feehaam&" alt="feehaam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtanim2&show_icons=true&locale=en&layout=compact" alt="mhtanim2" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtanim2&show_icons=true&locale=en" alt="mhtanim2" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtanim2&" alt="mhtanim2" />
 </p>
-
