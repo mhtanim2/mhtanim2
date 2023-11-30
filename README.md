@@ -9,9 +9,7 @@ economical advancement.</h4>
 
 - 💼 I’m currently working on a web (back end) project.
 
-- 🧠 I’m currently learning **Express.js, .NET core and Next.js**
-
-- 💬 Ask Me About Node.JS, React.JS, JS, Java, C#, .NET Core, Next.JS, Software Development, Git/Github
+- 💬 Ask Me About .NET Core, Node.JS, React.JS, JS, Java, C#, Next.JS, Software Development, Git/Github
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
 
 
