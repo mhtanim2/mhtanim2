@@ -7,9 +7,9 @@ economical advancement.</h4>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=mhtanim2" alt="mhtanim2" /></a> </p> -->
 
-- 💼 I’m currently working on a web (back end) project.
+- 💼 I’m currently working on ASP.Net Core.
 
-- 💬 Ask Me About .NET Core, Node.JS, React.JS, JS, Java, C#, Next.JS, Software Development, Git/Github
+- 💬 Ask Me About .NET Core, React.JS, C#, JS, Java, Next.JS, Software Development, Git/Github
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
 
 
