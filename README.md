@@ -16,7 +16,7 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 - 📧 Email me at **mhtanim2@gmail.com**
 
 - 📑 Know more about my skills & experiences in my
-**[resume](https://drive.google.com/file/d/1v2HkObWKzWDLNMlHc2nakX1lsDqaKbiG/view?usp=sharing)**.
+**[resume]([https://drive.google.com/file/d/1v2HkObWKzWDLNMlHc2nakX1lsDqaKbiG/view?usp=sharing](https://drive.google.com/file/d/1zn5VTbo_hphvsAvYJZ9WPfBKHzCpfVsX/view?usp=sharing))**.
 
 <hr>
 
